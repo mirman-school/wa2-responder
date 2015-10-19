@@ -1,0 +1,23 @@
+{
+  "name": "wa2-responder",
+  "version": "1.0.0",
+  "description": "node responder for wa2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirman-school/wa2-responder.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirman-school/wa2-responder/issues"
+  },
+  "homepage": "https://github.com/mirman-school/wa2-responder#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  }
+}
